@@ -33,8 +33,8 @@ group :production do
 end
 
 group :test do
-  gem 'coveralls', require: false
+  gem 'coveralls', '>= 0.8.21', require: false
   gem 'rubocop'
-  gem 'simplecov', require: false
+  gem 'simplecov', '>= 0.14.1', require: false
   gem 'webmock'
 end
