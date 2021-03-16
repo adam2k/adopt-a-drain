@@ -7,7 +7,6 @@
 [![Coverage Status](http://img.shields.io/coveralls/sfbrigade/adopt-a-drain.svg)][coveralls]
 
 [travis]: http://travis-ci.org/sfbrigade/adopt-a-drain
-[gemnasium]: https://gemnasium.com/sfbrigade/adopt-a-drain
 [coveralls]: https://coveralls.io/r/sfbrigade/adopt-a-drain
 
 Claim responsibility for cleaning out a storm drain after it rains.
